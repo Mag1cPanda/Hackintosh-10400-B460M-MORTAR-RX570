@@ -2,9 +2,12 @@
 ## EFI 
 OpenCore: 0.5.9
 
-macOS version: 10.5.6
+macOS version: 10.15.6
 
 ##  更新情况
+2020.9.10
++ macOS 10.15.6 (19G2021)
+
 2020.8.10
 + 电压 -0.105V FPU单烤 70℃ -> 56℃
 + CINEBENCH R20 +120
